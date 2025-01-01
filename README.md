@@ -1,4 +1,4 @@
-# Port Scanner Using Pyhton
+# Port Scanner Using Python
 
 A powerful and professional port scanner written in Python. This tool scans a target IP for open ports within a specified range and provides additional features like OS fingerprinting, service detection, and data visualization.
 
